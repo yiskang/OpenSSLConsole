@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenSSLConsole", "OpenSSLConsole\OpenSSLConsole.vcxproj", "{BB1FCC96-AD9C-441D-B361-FD1D63DCAE3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Md5Util", "Md5Util\Md5Util.vcxproj", "{559B5C56-FC9F-4A31-8502-12ECD228530F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1FCC96-AD9C-441D-B361-FD1D63DCAE3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB1FCC96-AD9C-441D-B361-FD1D63DCAE3A}.Debug|Win32.Build.0 = Debug|Win32
+		{BB1FCC96-AD9C-441D-B361-FD1D63DCAE3A}.Release|Win32.ActiveCfg = Release|Win32
+		{BB1FCC96-AD9C-441D-B361-FD1D63DCAE3A}.Release|Win32.Build.0 = Release|Win32
+		{559B5C56-FC9F-4A31-8502-12ECD228530F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{559B5C56-FC9F-4A31-8502-12ECD228530F}.Debug|Win32.Build.0 = Debug|Win32
+		{559B5C56-FC9F-4A31-8502-12ECD228530F}.Release|Win32.ActiveCfg = Release|Win32
+		{559B5C56-FC9F-4A31-8502-12ECD228530F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
